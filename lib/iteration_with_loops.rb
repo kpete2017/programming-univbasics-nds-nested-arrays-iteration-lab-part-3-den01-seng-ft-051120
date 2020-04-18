@@ -10,5 +10,5 @@ counter = 0
     end
     internal_counter += 1
   end
-  new_array
+  new_string
 end
